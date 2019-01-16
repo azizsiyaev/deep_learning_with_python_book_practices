@@ -4,6 +4,8 @@ This repository consists of examples of book Deep Learning with Python
 You can find this book by following link 
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?s=books&ie=UTF8&qid=1547627293&sr=1-1&keywords=deep+learning+with+python
 
+![alt text](https://github.com/azizsiyaev/deep_learning_with_python_book_practices/blob/master/cover.jpg)
+
 
 
 It has very nice content that can be mind changing for you
